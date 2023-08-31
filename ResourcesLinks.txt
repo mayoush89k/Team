@@ -1,0 +1,4 @@
+My link for the resource that I used : https://neo4j.com/docs/getting-started/get-started-with-neo4j/graph-database/
+May Link is : https://alronz.github.io/Factors-Influencing-NoSQL-Adoption/site/Neo4j/Results/Strengths%20and%20Weaknesses/#weaknesses
+Majd Link is : https://towardsdatascience.com/getting-started-with-neo4j-in-10-minutes-94788d99cc2b
+Khader Link is : https://nodejs.org/en/download
