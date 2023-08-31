@@ -1,0 +1,20 @@
+How to use the Neo4J:
+I. Setup neo4j:
+
+    1.Download neo4j Desktop, and install it.
+    
+    2. After installation, click “New Graph” under My Project section, then “create a Local Graph”. Write down the name of the graph, and the password.
+    
+    3. Run the database, clicking the “play” sign.
+
+ II. Create your neo4j graph database :
+ Let’s say your data is about people and organisations. People are one kind of ‘node’ and Organisations are another kind. They can be connected through a specific relationship. Like someone has worked for a company, someone is the chairman of the company, or a company is the parent of another company.
+
+     1. Writing CYPHER queries in the neo4j browser.
+     CYPHER is a flexible language, you can create nodes, relationships and even both together at the same time.
+
+     2. Pasting CYPHER queries from Excel with an Excel formula.
+
+https://towardsdatascience.com/getting-started-with-neo4j-in-10-minutes-94788d99cc2b
+
+     
