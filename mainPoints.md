@@ -20,7 +20,6 @@ Cypher®, a declarative query language similar to SQL
 ![step 7](https://wiki.cac.washington.edu/download/attachments/70914478/image2015-6-2%2011%3A6%3A2.png?version=1&modificationDate=1433268362878&api=v2)
 ![step 8](https://wiki.cac.washington.edu/download/attachments/70914478/image2015-6-2%2011%3A11%3A57.png?version=1&modificationDate=1433268717363&api=v2)
 ![step 9](https://wiki.cac.washington.edu/download/attachments/70914478/image2015-6-2%2011%3A17%3A6.png?version=1&modificationDate=1433269027094&api=v2)
-![step 11](https://wiki.cac.washington.edu/download/thumbnails/70914478/image2015-6-2%2011%3A40%3A0.png?version=1&modificationDate=1433270401037&api=v2)
 
 <h2>Neo7J's Strengths & Weaknesses</h2>
 
