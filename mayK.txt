@@ -20,7 +20,8 @@ Scalability
 Neo4j supports HA master-slave clusters that can linearly scale reads where slaves can share the read load.
 Storage
 Neo4j has some upper bound limit for the graph size and can support single graphs having tens of billions of nodes, relationships and properties.
-Summary
-Neo4j is suitable for applications where you have very large connected data and you want to run complex join-intensive queries and still get high performance.
+No date data type support support
+Neo4j doesn't have internal support for date data type but this can be overcome using different methods such as storing the Epoch linux long values instead.
+
 
 https://alronz.github.io/Factors-Influencing-NoSQL-Adoption/site/Neo4j/Results/Strengths%20and%20Weaknesses/#weaknesses
