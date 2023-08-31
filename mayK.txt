@@ -1,0 +1,26 @@
+Strengths
+Like any graph database, Neo4j has the below advantages:
+
+Performance
+Graph databases as well as Neo4j provides much better performance when it comes to querying deeply connected data that has many relationships expressed with complex joins.
+Flexibility
+The graph data model is more natural. It has no impedance mismatch and is whiteboard friendly.
+Powerful Query Model
+The graph query model is so intuitive and makes it very suitable for applications with object oriented, semi-structured and network like data.
+Easy to Learn Query Language
+Neo4j provides a powerful traversal framework using an easy to learn query language called Cypher.
+ACID Compliant
+Neo4j is compliant with the ACID properties (Atomicity, Consistency, Isolation, Durability) and provides full transaction support
+
+
+Weaknesses
+Neo4j has the below main weaknesses:
+
+Scalability
+Neo4j supports HA master-slave clusters that can linearly scale reads where slaves can share the read load.
+Storage
+Neo4j has some upper bound limit for the graph size and can support single graphs having tens of billions of nodes, relationships and properties.
+Summary
+Neo4j is suitable for applications where you have very large connected data and you want to run complex join-intensive queries and still get high performance.
+
+https://alronz.github.io/Factors-Influencing-NoSQL-Adoption/site/Neo4j/Results/Strengths%20and%20Weaknesses/#weaknesses
